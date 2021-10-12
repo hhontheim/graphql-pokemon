@@ -55,7 +55,7 @@ query {
 
 ```sh
 yarn
-yarn run build-app
+yarn run build
 yarn start
 ```
 
@@ -64,10 +64,6 @@ yarn start
 ```sh
 yarn
 yarn run watch # Using nodemon for auto-reloading
-
-or
-
-vercel dev # npm i -g @now/cli
 ```
 
 ## Disclaimer
@@ -76,4 +72,4 @@ This was built as part of a talk on Relay & GraphQL at [@ReactSP](https://meetup
 
 ## Related Projects
 
-* [Pokemon Gopher](https://github.com/racerxdl/pokemon-gopher) - Fetch information about pokémons with GraphQL and GO 🙂
+* [Pokemon Gopher](https://github.com/racerxdl/pokemon-gopher) - Fetch information about pokémons with #graphql and #go 🙂
